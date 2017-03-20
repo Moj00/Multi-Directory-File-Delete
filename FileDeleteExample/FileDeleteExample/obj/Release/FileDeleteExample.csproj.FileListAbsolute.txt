@@ -1,0 +1,9 @@
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\bin\Release\FileDeleteExample.exe.config
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\obj\Release\FileDeleteExample.Form1.resources
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\obj\Release\FileDeleteExample.Properties.Resources.resources
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\obj\Release\FileDeleteExample.csproj.GenerateResource.Cache
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\bin\Release\FileDeleteExample.exe
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\bin\Release\FileDeleteExample.pdb
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\obj\Release\FileDeleteExample.exe
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\obj\Release\FileDeleteExample.pdb
+C:\Users\MasterYoda\Downloads\FileDeleteExample\FileDeleteExample\FileDeleteExample\obj\Release\FileDeleteExample.csprojResolveAssemblyReference.cache
